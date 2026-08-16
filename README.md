@@ -1,4 +1,3 @@
-<img width="3430" height="1275" alt="Captura de tela 2026-08-15 222002" src="https://github.com/user-attachments/assets/91d644c1-783a-4fcf-82a5-340326f35abb" />
 # Sistema de Gestão de Ativos (SGA)
 
 Sistema full-stack para gestão do ciclo de vida de ativos de TI de uma rede pública municipal — do recebimento da solicitação ao descarte do equipamento — usado por administradores, gestores e operadores de campo.
