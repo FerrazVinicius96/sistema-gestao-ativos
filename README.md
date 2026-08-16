@@ -1,3 +1,4 @@
+<img width="3430" height="1275" alt="Captura de tela 2026-08-15 222002" src="https://github.com/user-attachments/assets/91d644c1-783a-4fcf-82a5-340326f35abb" />
 # Sistema de Gestão de Ativos (SGA)
 
 Sistema full-stack para gestão do ciclo de vida de ativos de TI de uma rede pública municipal — do recebimento da solicitação ao descarte do equipamento — usado por administradores, gestores e operadores de campo.
@@ -79,9 +80,13 @@ O schema do banco é criado pelas migrations em `backend/src/migrations/`.
 
 ## Screenshots
 
-`[INSERIR SCREENSHOT AQUI — tela de solicitação de equipamentos]`
+Cadastro de Solicitação:
 
-`[INSERIR SCREENSHOT AQUI — dashboard principal]`
+<img width="3430" height="1275" alt="Captura de tela 2026-08-15 222002" src="https://github.com/user-attachments/assets/63dd5e49-b65b-4a9f-838c-66fda84d418b" />
+
+Detalhes da Solicitação associados à máquina de estados: 
+
+<img width="661" height="634" alt="Captura de tela 2026-08-15 222201" src="https://github.com/user-attachments/assets/79c8dda5-cd12-40db-8dda-6348af391b5b" />
 
 ## Nota de origem
 
